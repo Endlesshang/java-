@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon May 14 17:01:56 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-0163-5de2-8370-000004edd338 
+on database directory D:\网络课程设计\chatExample2\USERDB  with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/D:/%e7%bd%91%e7%bb%9c%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1/chatExample2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=D:\网络课程设计\chatExample2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 14 17:01:59 CST 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Mon May 14 17:01:59 CST 2018:
+Shutting down instance a816c00e-0163-5de2-8370-000004edd338 on database directory D:\网络课程设计\chatExample2\USERDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+----------------------------------------------------------------
